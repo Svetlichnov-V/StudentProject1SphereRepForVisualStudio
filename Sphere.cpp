@@ -7,8 +7,6 @@ int main()
 {
     const int X_MAX = 1960;
     const int Y_MAX = 1080;
-    
-    //здесь что-то написано
 
     const float DT = 0.1;
 
